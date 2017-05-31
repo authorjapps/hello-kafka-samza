@@ -31,11 +31,12 @@ This is a bit of Hello World Kafka and Hello World Samza kind of example
 bin/grid bootstrap   <-----------    - If you are doing it first time
 
 If not first time, issue the following commands individually. It picks from the installs folder and puts into the /hello-kafka-samza/deploy folder.
-        - bin/grid install kafka
-        - bin/grid install zookeeper
-        - bin/grid install yarn
+- bin/grid install kafka
+- bin/grid install zookeeper
+- bin/grid install yarn
 
-You should see output like below:
+- You should see output like below:
+
 $pwd
 ../hello-kafka-samza
 
