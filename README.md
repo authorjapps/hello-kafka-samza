@@ -54,8 +54,8 @@ Using previously downloaded file /Users/nchandra/.samza/download/hadoop-2.6.1.ta
 $ 
 
 Then:
-bin/grid start all
-
-Now go to "How to deploy, run, observe the output?" section of the "README_hello_kafka_samza.txt"
+- bin/grid start all
+- Now go to "How to deploy, run, observe the output?" section of the "README_hello_kafka_samza.txt"
+- Link : https://github.com/authorjapps/hello-kafka-samza/blob/master/src/main/resources/README_hello_kafka_samza.txt
 (Note- for windows OS, look and map for similar folders)
 
