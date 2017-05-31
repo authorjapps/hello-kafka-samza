@@ -16,9 +16,9 @@ This is a bit of Hello World Kafka and Hello World Samza kind of example
     - People have skill BigData
 
 
-####Given the above feed into an organization, find out how many
-    - People have skill : Java with BigData skills
-    - People have skill : Fidget-Spinning
+#### Given the above feed into an organization, find out how many
+- People have skill : Java with BigData skills
+- People have skill : Fidget-Spinning
 
 #### Solution:
 - People have skill Java with BigData  --> send to my-skills topic
@@ -27,7 +27,7 @@ This is a bit of Hello World Kafka and Hello World Samza kind of example
     - who has Java with BigData skills --> send to my-stats topic 
     - who has Fidget-Spinning skills --> send to my-stats topic 
 
-####How to install/start/stop ?
+#### How to install/start/stop ?
 bin/grid bootstrap   <-----------    - If you are doing it first time
 
 If not first time, issue the following commands individually. It picks from the installs folder and puts into the /hello-kafka-samza/deploy folder.
