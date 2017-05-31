@@ -2,6 +2,7 @@ hello-kafka-samza
 =================
 
 Simplified version for developers and testers to understand how the streaming pipelines works.
+This is a bit of Hello World Kafka and Hello World Samza kind of example
 
 - Git repo: 
 -- URL: https://github.com/authorjapps/hello-kafka-samza
