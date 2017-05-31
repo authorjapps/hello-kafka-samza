@@ -1,0 +1,2 @@
+{"name":"Roby","place":"London","skills":[{"subject":"Oracle","experience":5,"where":"Banking"},{"subject":"Python","experience":2,"where":"Govt"},{"subject":"Fidget Spinning","experience":0,"where":"London"}],"time":1398926301272,"source":"fd-lon","channel":"#jobserve"}
+{"name":"Joey","place":"London","skills":[{"subject":"Python","experience":5,"where":"Univ"},{"subject":"Scala","experience":1,"where":"Govt"},{"subject":"Fidget Spinning","experience":2,"where":"none"}],"time":1398926301273,"source":"fd-lon","channel":"#jobserve"}
