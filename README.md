@@ -55,8 +55,8 @@ $
 
 Then:
 - bin/grid start all
-- Now go to "How to deploy, run, observe the output?" section of the "README_hello_kafka_samza.txt"
 - (Note- for windows OS, look and map for similar folders)
+- Now read the "How to deploy, run, observe the output?" section of the "README_hello_kafka_samza.txt" ro read the below
 
 ```
 Hello KAFKA / SAMZA:
@@ -107,9 +107,9 @@ How to deploy, run, observe the output?
 
 -- deploy/kafka/bin/kafka-console-consumer.sh  --zookeeper localhost:2181 --topic my-stats
 
--- bin/produce-my-stats-fidget-data.sh    <----- The see the my-stats topic
+-- bin/produce-my-stats-fidget-data.sh    <----- Then see whats produced to my-stats topic
 
-        > bin/grid stop all  --> Then check:
+        > bin/grid stop all  <------ Once you are done, you can stop all containers. Then check if any process running:
 
 -- kill -9 (kafka_id) --> this will kill samza and zookeeper process also.
 
